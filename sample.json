@@ -1,0 +1,27 @@
+{
+    "name": "Jan Expense Report",
+    "persons": ["Alice", "Bob", "Claire", "David"],
+    "expenses": [
+        {
+            "category": "Breakfast",
+            "amount": 60,
+            "paidBy": "Bob",
+            "exclude": ["Claire","David"]
+        },
+        {
+            "category": "Phone Bill",
+            "amount": 100,
+            "paidBy": "Claire"
+        },
+        {
+            "category": "Groceries",
+            "amount": 80,
+            "paidBy": "David"
+        },
+        {
+            "category": "Petrol",
+            "amount": 40,
+            "paidBy": "David"
+        }
+    ]
+}
