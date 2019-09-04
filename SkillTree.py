@@ -129,7 +129,7 @@ def main():
     print("we are searching")
     pathlist=list()
     path=Path()
-    DFS(skilltree,root,11,path,pathlist)
+    DFS(skilltree,root,boss.offense,path,pathlist)
     print("printing pathlist")
     minpt=100000
     index=10000;
