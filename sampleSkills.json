@@ -1,0 +1,46 @@
+{
+  "boss":
+    {
+      "name": "joker",
+      "offense": 11
+    }
+  ,
+  "skills": [
+    {
+      "name": "Grapple Gun",
+      "offense": 5,
+      "points": 1,
+      "require": null
+    },
+    {
+      "name": "Hacking Device",
+      "offense": 6,
+      "points": 2,
+      "require": "Grapple Gun"
+    },
+    {
+      "name": "Remote",
+      "offense": 7,
+      "points": 3,
+      "require": "Hacking Device"
+    },
+    {
+      "name": "Bomb",
+      "offense": 20,
+      "points": 5,
+      "require": "Remote"
+    },
+    {
+      "name": "Inverted takedown",
+      "offense": 5,
+      "points": 1,
+      "require": null
+    },
+    {
+      "name": "Shockwave attack",
+      "offense": 8,
+      "points": 3,
+      "require": "Inverted takedown"
+    }
+  ]
+}
