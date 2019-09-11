@@ -1,0 +1,6 @@
+{
+    "number_of_types_of_food" : 2,
+    "calories_for_each_type_for_raphael" : [4,5],
+    "calories_for_each_type_for_leonardo" :  [3,6],
+    "maximum_difference_for_calories": 3
+}
