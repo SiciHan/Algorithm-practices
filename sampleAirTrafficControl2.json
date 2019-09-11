@@ -1,0 +1,28 @@
+{
+    "Flights": [
+        {
+            "PlaneId": "TR123",
+            "Time": "0200"
+        },
+        {
+            "PlaneId": "SQ255",
+            "Time": "0210"
+        },
+        {
+            "PlaneId": "TH544",
+            "Time": "0155"
+        },
+        {
+            "PlaneId": "BA123",
+            "Time": "0212"
+        },
+        {
+            "PlaneId": "VA521",
+            "Time": "0230"
+        }
+    ],
+    "Static": {
+        "Runways": ["A", "B"],
+        "ReserveTime": "600"
+    }
+}
